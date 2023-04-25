@@ -71,3 +71,5 @@ const FeaturedPost: Module<IFeaturedPostModule> = ({module}) => {
 		</div>
 	)
 }
+
+export default FeaturedPost
